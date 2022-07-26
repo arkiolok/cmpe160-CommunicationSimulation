@@ -1,5 +1,5 @@
 # cmpe160-CommunicationSimulation
-Communication Simulation project I build during the Cmpe160 lectures in Spring 2020
+Communication Simulation project I build during the Cmpe160 lectures in Spring 2021
 
 Project descriptions are in the pdf file in /Webcontent/
 
