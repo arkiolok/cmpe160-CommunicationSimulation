@@ -1,4 +1,4 @@
-# cmpe160-CommunicationSimulation
+# CmpE160 - Project 1 - Communication Simulation
 Communication Simulation project I build during the Cmpe160 lectures in Spring 2021
 
 Project descriptions are in the pdf file in /Webcontent/
